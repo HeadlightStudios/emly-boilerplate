@@ -1,0 +1,28 @@
+{
+  "clients": [
+    {
+      "id": "apXVn76xBT7WougWj17MGXHSthfrBB",
+      "name": "Bitcoin",
+      "type": "BTC",
+      "image": "btc"
+    },
+    {
+      "id": "NfZmyIGFwJ2OhoGcWhYfeql5Ugy4X",
+      "name": "Ethereum",
+      "type": "ETH",
+      "image": "eth"
+    },
+    {
+      "id": "KyVu1XTC6jOFPIUhi0yFifanPwE3l",
+      "name": "Ripple",
+      "type": "XRP",
+      "image": "xrp"
+    },
+    {
+      "id": "JKYNATAI6jOFPIUhi08AUJUAja7yYo",
+      "name": "Cardano",
+      "type": "ADA",
+      "image": "ada"
+    }
+  ]
+}
